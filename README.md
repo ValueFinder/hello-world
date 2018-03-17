@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Github is useful for code projects, collaboration and learning
